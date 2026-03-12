@@ -1,11 +1,5 @@
 fastapi
 uvicorn
-transformers
-torch
-peft
-deep-translator
-beautifulsoup4
 requests
-huggingface_hub
-accelerate
-pydantic
+supabase
+python-dotenv
